@@ -118,7 +118,6 @@
 | ～あいだに | Trong khi, trong lúc | Động từ/Tính từ thể từ điển/Danh từ + あいだに | 宿題をしているあいだに、音楽を聞いていました。(Tôi đã nghe nhạc trong khi làm bài tập.) |
 | ～にする | Làm cho ~ | Danh từ + にする | 私は来週の会議を水曜日にします。(Tôi sẽ dời cuộc họp tuần sau sang thứ Tư.) |
 | ～Vてほしい/もらう | Muốn (ai) làm gì đó ~ | Động từ thể て + ほしい/もらう | 私は友達に手紙を書いてほしいです。(Tôi muốn bạn viết thư cho tôi.)/私は先生に宿題
-Tôi có thể viết tiếp phần còn lại của bảng ngữ pháp N4 cho bạn.
 | ～たところ | Sau khi, mặc dù ~ | Động từ thể た + ところ | 病院へ行ったところ、何も問題はありませんでした。(Sau khi đến bệnh viện, tôi thấy không có vấn đề gì.) |
 | ～ことにする | Tôi quyết định | Động từ thể từ điển + ことにする | 毎日運動をすることにしました。(Tôi quyết định mỗi ngày sẽ tập thể dục.) |
 | ～ことになっている | Được quyết định, quy tắc | Động từ thể từ điển + ことになっている | 明日は会議があることになっています。(Ngày mai có cuộc họp theo quy định.) |

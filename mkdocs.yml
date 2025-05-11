@@ -6,7 +6,16 @@ nav:
   - 'Trang chủ': 
     - index.md
   - 'Tổng hợp ngữ pháp':
-    - 'ngu-phap-tong-hop.md'
+    - 'Ngữ pháp N6': 'n6.md'
+    - 'Tổng hợp': 'ngu-phap-tong-hop.md'
+  - 'Ngữ pháp JLPT':
+    - 'n5.md'
+    - 'n4.md'
+    - 'n3.md'
+    - 'n2.md'
+    - 'n1.md'
+  - 'Các chuyên đề khác':
+    - 'Khác': 'khac.md'
 
 theme:
   palette:
